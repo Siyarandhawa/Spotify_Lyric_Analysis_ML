@@ -1,4 +1,0 @@
-Streaming platforms like Spotify have transformed the music industry, impacting not only how music is consumed but also how data on listener preferences, song popularity, and musical trends are accessed. Understanding the factors that drive a song’s popularity can provide insights for artists and producers looking to create resonant music. While many elements influence popularity—including artist reputation and song structure—lyrics play a critical role by directly conveying emotions and themes that listeners connect with. Our project seeks to explore how specific lyrical themes correlate with song popularity across various genres, highlighting trends that resonate most with audiences on platforms like Spotify.
-
-Using sentiment analysis, which lyrical themes—such as love, empowerment, struggle, anger, hope, celebration, and nostalgia—are most commonly identified in the top songs of Spotify's English-language genres (Pop, Rap, Rock, R&B) from 2000 to 2023?
-
